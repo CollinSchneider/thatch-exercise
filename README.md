@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project for the [Thatch](https://thatch.ai) growth engineering coding exercise.
 
-## Getting Started
+## Running the app
 
 First, run the development server:
 
@@ -9,6 +9,8 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to view the employees table. You can sort the table by clicking on each table header. Each row is clickable so that you can view the employee details in the slideout drawer.
+
+## Testing
 
 Run `npm run test` in order to run the provided tests, which currently validates the `Employee` model and the `EmployeeTable` Component satisfy the requirements.
 
